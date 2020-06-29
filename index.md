@@ -6,4 +6,10 @@ James Bond is a special agent from the Britsh Secret Service, also known as MI6.
 
 * womanizer
 * cold as ice
-* analytical 
+* analytical
+
+## Quote:
+
+My name is Bond, James Bond!
+
+Wodka Martini, shaken, not stirred! 
